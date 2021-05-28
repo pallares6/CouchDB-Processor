@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/couchdb-bundle.iml" filepath="$PROJECT_DIR$/couchdb-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/couchdb-nar/couchdb-nar.iml" filepath="$PROJECT_DIR$/couchdb-nar/couchdb-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/couchdb-processors/couchdb-processors.iml" filepath="$PROJECT_DIR$/couchdb-processors/couchdb-processors.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="couchdb-nar" />
+        <module name="couchdb-processors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="couchdb-bundle" target="1.8" />
+      <module name="couchdb-nar" target="1.8" />
+      <module name="couchdb-processors" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
