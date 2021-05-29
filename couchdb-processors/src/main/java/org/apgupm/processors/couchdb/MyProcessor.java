@@ -81,13 +81,11 @@ public class MyProcessor extends AbstractProcessor {
     public void onScheduled(final ProcessContext context) {
 
     }
-
     @Override
     public void onTrigger(final ProcessContext context, final ProcessSession session) throws ProcessException {
         FlowFile flowFile = session.get();
         if ( flowFile == null ) {
             return;
         }
-        // TODO implement
     }
 }

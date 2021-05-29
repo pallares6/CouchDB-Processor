@@ -15,7 +15,6 @@ import org.apache.nifi.processor.util.StandardValidators;
 import org.lightcouch.CouchDbException;
 import org.lightcouch.DocumentConflictException;
 import org.lightcouch.Response;
-
 import java.io.*;
 import java.util.List;
 import java.util.Set;
