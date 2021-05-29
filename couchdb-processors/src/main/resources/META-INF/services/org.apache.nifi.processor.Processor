@@ -13,4 +13,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 org.apgupm.processors.couchdb.CouchDBProcessor
-org.apgupm.processors.couchdb.MyProcessor
+org.apgupm.processors.couchdb.BasicProcessor
