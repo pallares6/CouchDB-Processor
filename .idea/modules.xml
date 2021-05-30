@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/couchdb-bundle.iml" filepath="$PROJECT_DIR$/couchdb-bundle.iml" />
       <module fileurl="file://$PROJECT_DIR$/couchdb-nar/couchdb-nar.iml" filepath="$PROJECT_DIR$/couchdb-nar/couchdb-nar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/couchdb-processors/couchdb-processors.iml" filepath="$PROJECT_DIR$/couchdb-processors/couchdb-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/couchdb-processor/couchdb-processor.iml" filepath="$PROJECT_DIR$/couchdb-processor/couchdb-processor.iml" />
     </modules>
   </component>
 </project>
